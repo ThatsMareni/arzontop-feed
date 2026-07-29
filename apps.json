@@ -17,6 +17,15 @@
       "desc_uz": "Moliyaviy tracker: xarajat limitlari, ko‘p valyuta, Excel hisobotlari. Bepul va reklamasiz",
       "icon": "https://thatsmareni.github.io/arzontop-feed/icons/budjetim.png",
       "url": "https://play.google.com/apps/testing/uz.budjetim"
+    },
+    {
+      "package": "uz.TezYoz",
+      "name_ru": "TezYoz",
+      "name_uz": "TezYoz",
+      "desc_ru": "Тренажёр слепой печати на узбекском: три алфавита, 12 уроков, рейтинг и статистика",
+      "desc_uz": "O‘zbek tilida tez yozish mashqi: uchta alifbo, 12 ta dars, reyting va statistika",
+      "icon": "https://thatsmareni.github.io/arzontop-feed/icons/tezyoz.png",
+      "url": "https://play.google.com/apps/testing/uz.TezYoz"
     }
   ]
 }
