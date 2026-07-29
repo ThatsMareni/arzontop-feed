@@ -1,6 +1,15 @@
 {
   "apps": [
     {
+      "package": "uz.arzontop.app",
+      "name_ru": "ArzonTop",
+      "name_uz": "ArzonTop",
+      "desc_ru": "Сравнение цен супермаркетов Узбекистана: где вся корзина дешевле, скидки и история цен",
+      "desc_uz": "O‘zbekiston supermarketlari narxlarini solishtirish: savat qayerda arzonroq, chegirmalar va narx tarixi",
+      "icon": "https://thatsmareni.github.io/arzontop-feed/icons/arzontop.png",
+      "url": "https://play.google.com/apps/testing/uz.arzontop.app"
+    },
+    {
       "package": "uz.budjetim",
       "name_ru": "Budjetim",
       "name_uz": "Budjetim",
