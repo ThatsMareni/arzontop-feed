@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "package": "uz.budjetim",
+      "name_ru": "Budjetim",
+      "name_uz": "Budjetim",
+      "desc_ru": "Финансовый трекер: лимиты расходов, мультивалюта, отчёты в Excel. Бесплатно и без рекламы",
+      "desc_uz": "Moliyaviy tracker: xarajat limitlari, ko‘p valyuta, Excel hisobotlari. Bepul va reklamasiz",
+      "icon": "https://thatsmareni.github.io/arzontop-feed/icons/budjetim.png",
+      "url": "https://play.google.com/apps/testing/uz.budjetim"
+    }
+  ]
+}
