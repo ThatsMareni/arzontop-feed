@@ -27,5 +27,15 @@
       "icon": "https://thatsmareni.github.io/arzontop-feed/icons/tezyoz.png",
       "url": "https://play.google.com/apps/testing/uz.TezYoz"
     }
+    {
+      "package": "uz.shazhara",
+      "name_ru": "Shazhara - Family Tree",
+      "name_uz": "Shazhara - Family Tree",
+      "desc_ru": "Генеалогическое древо вашей семьи",
+      "desc_uz": "Nasab daraxti, yetti pusht va oila kitobi",
+      "icon": "https://thatsmareni.github.io/arzontop-feed/icons/Shazhara.png",
+      "url": "https://play.google.com/apps/testing/uz.shazhara"
+    }
+    
   ]
 }
